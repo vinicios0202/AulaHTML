@@ -1,0 +1,226 @@
+* {
+  margin: 0px 0px;
+  padding: 0;
+  font-family: 'Oswald', sans-serif;
+}
+
+#arruma {
+  display: flex;
+}
+
+
+#princ {
+  background-color: #242321;
+}
+
+#cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #ffff;
+}
+
+#titulo {
+  color: #ffff;
+  text-align: center;
+  background-color: #38026e;
+  height: 100px;
+  font-size: 30px;
+}
+
+#banner {
+  text-align: center;
+}
+
+button {
+  height: 35px;
+  width: 50px;
+  border-radius: 10px;
+}
+
+#Produto {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#Produto2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#Computador {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  border-radius: 15px;
+  background-color: #38026e;
+  color: #ffff;
+}
+
+#Cadeira {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  border-radius: 15px;
+  background-color: #38026e;
+  color: #ffff;
+}
+
+#Playstation {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  border-radius: 15px;
+  background-color: #38026e;
+  color: #ffff;
+}
+
+#Xbox {
+  text-align: center;
+  width: 300px;
+  border: solid 5px black;
+  border-radius: 15px;
+  background-color: #38026e;
+  color: #ffff;
+}
+
+input {
+  height: 35px;
+  border-radius: 15px;
+  width: 800px;
+}
+
+#Produtos {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#Produtos2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#rodape {
+  text-align: center;
+  color: #ffff;
+  background-color: #38026e;
+}
+
+#img {
+  display: flex;
+  border: solid 8px #000000;
+  border-radius: 8px;
+  margin-left: 100px;
+}
+
+#desc {
+  display: flex;
+  justify-content: space-between;
+}
+
+#nome {
+  text-align: center;
+  border: solid 8px #000000;
+  border-radius: 8px;
+  background-color: #38026e;
+  width: 300px;
+  color: #ffff;
+}
+
+#espaco {
+  height: 290px;
+}
+
+#espaco2 {
+  height: 150px;
+}
+
+#espaco3 {
+  height: 150px;
+}
+
+#espaco4 {
+  height: 80px;
+}
+
+#botao button {
+  width: 300px;
+  border-radius: 0px;
+}
+
+#nomei {
+  margin-left: 100px;
+  display: flex;
+  color: #ffff;
+}
+
+#nomei input {
+  margin-left: 15px;
+}
+
+#email {
+  margin-left: 100px;
+  display: flex;
+  color: #ffff;
+}
+
+#email input {
+  margin-left: 10px;
+}
+
+#cidade {
+  margin-left: 100px;
+  display: flex;
+  color: #ffff;
+}
+
+#cidade select {
+  margin-left: 10px;
+  border-radius: 12px;
+  height: 30px;
+  width: 150px;
+}
+
+#entrega {
+  color: #ffff;
+  display: flex;
+  margin-left: 100px;
+  margin-right: 1050px;
+}
+
+#entrega input {
+  margin-left: 5px;
+}
+
+#entrega h4 {
+  margin-left: 10px;
+}
+
+#adicional {
+  display: flex;
+  color: #ffff;
+  justify-content: center;
+  margin-left: 100px;
+}
+
+#adicional input {
+  margin-right: 280px;
+}
+
+#adicional h4 {
+  margin-left: 25px;
+}
+
+#pedido {
+  color: #ffff;
+  margin-left: 0px;
+  background-color: #38026e;
+}
+
+#fim button{
+  width: 300px;
+}
+
+#fim {
+  text-align: center;
+}
